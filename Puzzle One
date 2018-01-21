@@ -7,7 +7,7 @@ down
 down
 down
 }
-//moves rudy down seven tiles
+
 function rightFiveTimes {
 right
 right
