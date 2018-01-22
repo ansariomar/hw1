@@ -1,15 +1,15 @@
-var steps = 0
-while (steps < 6) {
-down
-steps = steps + 1
-}
 function rightThreeTimes {
 right
 right
 right
 }
 
-while (steps < 6)
+var steps = 0
+while (steps < 6) {
+down
+steps = steps + 1
+}
+
 rightThreeTimes
 up
 up
